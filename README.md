@@ -30,10 +30,5 @@ Focuses on **graph search, optimization, and probabilistic models**, with clear 
 ```bash
 git clone https://github.com/your-username/AI_ML_Algorithms_Python.git
 
-cd AI_ML_Algorithms_Python
-pip install -r requirements.txt
-python BFS/bfs_example.py
 
-
-## 📂 Repository Structure
 

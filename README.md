@@ -18,27 +18,11 @@ Focuses on **graph search, optimization, and probabilistic models**, with clear 
 
 ### Probabilistic Models
 - **Bayesian Networks**
+- and more...
 
-### Others
-- You can add more algorithms as you implement them!
-
----
-
-## 🎨 Demo / Screenshots
-
-<!-- You can add GIFs or images to showcase how your algorithms work -->
-
-Example: BFS Traversal
-
-![BFS Demo](https://media.giphy.com/media/your-gif-link/giphy.gif)
-
-A* Pathfinding Example:
-
-![A* Demo](https://media.giphy.com/media/your-gif-link/giphy.gif)
 
 ---
 
----
 
 ## 💻 How to Run
 
